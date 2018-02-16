@@ -1,13 +1,16 @@
 [submodule "geonav_transform"]
 	path = geonav_transform
 	url = https://github.com/bsb808/geonav_transform.git
-[submodule "hector_gazebo"]
-	path = hector_gazebo
-	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
-	branch = kinetic-devel
+
+[submodule "pypid"]
+	path = pypid
+	url = https://github.com/bsb808/pypid.git
 [submodule "hector_localization"]
 	path = hector_localization
 	url = https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
+[submodule "hector_gazebo"]
+	path = hector_gazebo
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
 [submodule "kingfisher_control"]
 	path = kingfisher_control
 	url = https://github.com/bsb808/kingfisher_control.git
@@ -17,7 +20,6 @@
 [submodule "kingfisher_gazebo"]
 	path = kingfisher_gazebo
 	url = https://github.com/bsb808/kingfisher_gazebo.git
-	branch = kinetic-devel
 [submodule "kingfisher_utils"]
 	path = kingfisher_utils
 	url = https://github.com/bsb808/kingfisher_utils.git
@@ -30,6 +32,3 @@
 [submodule "buoyancy_gazebo_plugin"]
 	path = buoyancy_gazebo_plugin
 	url = https://github.com/bsb808/buoyancy_gazebo_plugin.git
-[submodule "pypid"]
-	path = pypid
-	url = https://github.com/bsb808/pypid.git
